@@ -1,4 +1,4 @@
-#Opensea Offer Bot
+# Opensea Offer Bot
 
 Inspect a collection on OpenSea and make configurable offers on items found.
 
